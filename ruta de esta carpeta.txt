@@ -1,0 +1,3 @@
+d/Git/'aaa pruebas 2020'/'Primera prueba'/
+
+git add "ruta de esta carpeta.txt"
